@@ -15,3 +15,4 @@ int main() {
         } 
     return 0; 
 }
+//use of find and string::npos
